@@ -6771,7 +6771,7 @@ Source: http://www.emacswiki.org/emacs-en/download/misc-cmds.el
 
 Usage:
 
-#+END_SRC emacs-lisp
+#+BEGIN_SRC elisp
 M-x refresh
 #+END_SRC
 
